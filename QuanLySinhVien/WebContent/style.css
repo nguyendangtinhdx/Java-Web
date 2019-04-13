@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+#header{
+	background: lightblue;
+	width: 100%;
+	height: 150px;
+	float: left;
+}
+#menu{
+	background: lightgreen;
+	width: 30%;
+	height: 500px;
+	float: left;
+}
+#content{
+	background: lightgray;
+	width: 70%;
+	height: 500px;
+	float: left;
+}
+#footer{
+	background: lightpink;
+	width: 100%;
+	height: 150px;
+	float: left;
+}

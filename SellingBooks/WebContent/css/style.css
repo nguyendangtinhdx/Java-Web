@@ -1,0 +1,12 @@
+@charset "UTF-8";
+.hover:hover{
+    color: #7AB900;
+    -moz-transition: all 0.9s ease 0s;
+    -webkit-transition: all 0.9s ease 0s;
+    -o-transition: all 0.9s ease 0s;
+    }
+#margin_top{margin-top: 2px;}
+.margin_button{margin-left: -20px;}
+.margin_left_slide{margin-left: -50px;}
+#margin_top_detail{margin-top: 3px;}
+#height_sach{height: 500px;}

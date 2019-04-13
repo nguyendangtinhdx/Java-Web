@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-19T20:30:52</date>
+  <millis>1516368652431</millis>
+  <sequence>0</sequence>
+  <logger>com.tinhnd.day6.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day6.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>
+Số lần truy vấn: 1
+Nội dung: SELECT CandidateID,FullName,BirthDay,Phone,Email,Candidate_type FROM dbo.Candidate</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-19T20:30:52</date>
+  <millis>1516368652502</millis>
+  <sequence>1</sequence>
+  <logger>com.tinhnd.day6.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day6.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>
+Số lần truy vấn: 2
+Nội dung: SELECT FullName FROM dbo.Candidate</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-24T13:41:11</date>
+  <millis>1516776071173</millis>
+  <sequence>0</sequence>
+  <logger>com.tinhnd.day6.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day6.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>
+Số lần truy vấn: 1
+Nội dung: SELECT CandidateID,FullName,BirthDay,Phone,Email,Candidate_type FROM dbo.Candidate</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-24T13:41:11</date>
+  <millis>1516776071227</millis>
+  <sequence>1</sequence>
+  <logger>com.tinhnd.day6.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day6.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>
+Số lần truy vấn: 2
+Nội dung: SELECT FullName FROM dbo.Candidate</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-24T13:41:41</date>
+  <millis>1516776101624</millis>
+  <sequence>0</sequence>
+  <logger>com.tinhnd.day6.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day6.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>
+Số lần truy vấn: 1
+Nội dung: SELECT CandidateID,FullName,BirthDay,Phone,Email,Candidate_type FROM dbo.Candidate</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-24T13:41:41</date>
+  <millis>1516776101698</millis>
+  <sequence>1</sequence>
+  <logger>com.tinhnd.day6.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day6.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>
+Số lần truy vấn: 2
+Nội dung: SELECT FullName FROM dbo.Candidate</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-24T13:41:54</date>
+  <millis>1516776114186</millis>
+  <sequence>2</sequence>
+  <logger>com.tinhnd.day6.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day6.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>
+Số lần truy vấn: 3
+Nội dung: SELECT CandidateID,FullName,BirthDay,Phone,Email,Candidate_type FROM dbo.Candidate</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-24T13:41:54</date>
+  <millis>1516776114245</millis>
+  <sequence>3</sequence>
+  <logger>com.tinhnd.day6.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day6.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>
+Số lần truy vấn: 4
+Nội dung: SELECT FullName FROM dbo.Candidate</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-24T13:46:49</date>
+  <millis>1516776409188</millis>
+  <sequence>4</sequence>
+  <logger>com.tinhnd.day6.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day6.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>
+Số lần truy vấn: 5
+Nội dung: SELECT CandidateID,FullName,BirthDay,Phone,Email,Candidate_type FROM dbo.Candidate</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-24T13:46:49</date>
+  <millis>1516776409245</millis>
+  <sequence>5</sequence>
+  <logger>com.tinhnd.day6.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day6.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>
+Số lần truy vấn: 6
+Nội dung: SELECT FullName FROM dbo.Candidate</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-24T13:47:03</date>
+  <millis>1516776423635</millis>
+  <sequence>6</sequence>
+  <logger>com.tinhnd.day6.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day6.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>
+Số lần truy vấn: 7
+Nội dung: SELECT CandidateID,FullName,BirthDay,Phone,Email,Candidate_type FROM dbo.Candidate</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-24T13:47:03</date>
+  <millis>1516776423707</millis>
+  <sequence>7</sequence>
+  <logger>com.tinhnd.day6.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day6.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>
+Số lần truy vấn: 8
+Nội dung: SELECT FullName FROM dbo.Candidate</message>
+</record>
+</log>

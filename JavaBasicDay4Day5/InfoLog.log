@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-19T11:23:40</date>
+  <millis>1516335820017</millis>
+  <sequence>0</sequence>
+  <logger>com.tinhnd.day4day5.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day4day5.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>
+Số lần truy vấn: 1
+Nội dung: SELECT CandidateID,FullName,BirthDay,Phone,Email,Candidate_type FROM dbo.Candidate</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-19T11:23:40</date>
+  <millis>1516335820120</millis>
+  <sequence>1</sequence>
+  <logger>com.tinhnd.day4day5.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day4day5.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>
+Số lần truy vấn: 2
+Nội dung: SELECT FullName FROM dbo.Candidate</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-19T11:23:49</date>
+  <millis>1516335829434</millis>
+  <sequence>2</sequence>
+  <logger>com.tinhnd.day4day5.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day4day5.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>
+Số lần truy vấn: 3
+Nội dung: SELECT CandidateID,FullName,BirthDay,Phone,Email,Candidate_type FROM dbo.Candidate</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-19T11:23:49</date>
+  <millis>1516335829506</millis>
+  <sequence>3</sequence>
+  <logger>com.tinhnd.day4day5.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day4day5.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>
+Số lần truy vấn: 4
+Nội dung: SELECT FullName FROM dbo.Candidate</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-19T11:25:21</date>
+  <millis>1516335921494</millis>
+  <sequence>4</sequence>
+  <logger>com.tinhnd.day4day5.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day4day5.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>
+Số lần truy vấn: 5
+Nội dung: UPDATE dbo.Candidate SET FullName = Lê Thủy	, BirthDay = Thu Feb 02 00:00:00 ICT 1995, Phone = 1234567894, Email = thuyl@gmail.com,Candidate_type = 2, ExpInYear = 6, ProSkill = speaking English WHERE CandidateID =  Cand02</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-19T11:25:54</date>
+  <millis>1516335954187</millis>
+  <sequence>5</sequence>
+  <logger>com.tinhnd.day4day5.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day4day5.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>com.tinhnd.day4day5.exception.BirthDayException: Ngày sinh không hợp lệ !</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-19T13:04:10</date>
+  <millis>1516341850749</millis>
+  <sequence>0</sequence>
+  <logger>com.tinhnd.day4day5.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day4day5.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>
+Số lần truy vấn: 1
+Nội dung: SELECT CandidateID,FullName,BirthDay,Phone,Email,Candidate_type FROM dbo.Candidate</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-19T13:04:10</date>
+  <millis>1516341850849</millis>
+  <sequence>1</sequence>
+  <logger>com.tinhnd.day4day5.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day4day5.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>
+Số lần truy vấn: 2
+Nội dung: SELECT FullName FROM dbo.Candidate</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-19T13:04:23</date>
+  <millis>1516341863307</millis>
+  <sequence>2</sequence>
+  <logger>com.tinhnd.day4day5.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day4day5.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>
+Số lần truy vấn: 3
+Nội dung: SELECT CandidateID,FullName,BirthDay,Phone,Email,Candidate_type FROM dbo.Candidate</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-19T13:04:23</date>
+  <millis>1516341863404</millis>
+  <sequence>3</sequence>
+  <logger>com.tinhnd.day4day5.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day4day5.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>
+Số lần truy vấn: 4
+Nội dung: SELECT FullName FROM dbo.Candidate</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-19T20:27:19</date>
+  <millis>1516368439557</millis>
+  <sequence>0</sequence>
+  <logger>com.tinhnd.day4day5.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day4day5.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>
+Số lần truy vấn: 1
+Nội dung: SELECT CandidateID,FullName,BirthDay,Phone,Email,Candidate_type FROM dbo.Candidate</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-19T20:27:20</date>
+  <millis>1516368440057</millis>
+  <sequence>1</sequence>
+  <logger>com.tinhnd.day4day5.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day4day5.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>
+Số lần truy vấn: 2
+Nội dung: SELECT FullName FROM dbo.Candidate</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-19T20:27:29</date>
+  <millis>1516368449030</millis>
+  <sequence>2</sequence>
+  <logger>com.tinhnd.day4day5.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day4day5.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>
+Số lần truy vấn: 3
+Nội dung: SELECT CandidateID,FullName,BirthDay,Phone,Email,Candidate_type FROM dbo.Candidate</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-19T20:27:29</date>
+  <millis>1516368449259</millis>
+  <sequence>3</sequence>
+  <logger>com.tinhnd.day4day5.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day4day5.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>
+Số lần truy vấn: 4
+Nội dung: SELECT FullName FROM dbo.Candidate</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-19T20:27:34</date>
+  <millis>1516368454486</millis>
+  <sequence>4</sequence>
+  <logger>com.tinhnd.day4day5.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day4day5.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>
+Số lần truy vấn: 5
+Nội dung: SELECT CandidateID,FullName,BirthDay,Phone,Email,Candidate_type FROM dbo.Candidate</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-19T20:27:34</date>
+  <millis>1516368454551</millis>
+  <sequence>5</sequence>
+  <logger>com.tinhnd.day4day5.controller.Main</logger>
+  <level>INFO</level>
+  <class>com.tinhnd.day4day5.controller.Main</class>
+  <method>writeFileLog</method>
+  <thread>1</thread>
+  <message>
+Số lần truy vấn: 6
+Nội dung: SELECT FullName FROM dbo.Candidate</message>
+</record>
+</log>

@@ -1,0 +1,7 @@
+package exception;
+
+public class InvalidDateException extends Exception {
+    public InvalidDateException(String d){  
+        super(d);   // gọi non - parameter constructor của Exception để throws ra message trong exception 
+       }  
+}
